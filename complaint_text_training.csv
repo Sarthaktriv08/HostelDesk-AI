@@ -1,0 +1,641 @@
+complaint_text,category,template_id,data_type
+The ceiling fan in my room has stopped working.,Electrical,Electrical_01,synthetic_template
+Please help: the ceiling fan in my room has stopped working.,Electrical,Electrical_01,synthetic_template
+The ceiling fan in my room has stopped working. It is affecting hostel residents.,Electrical,Electrical_01,synthetic_template
+I need assistance with this issue. The ceiling fan in my room has stopped working.,Electrical,Electrical_01,synthetic_template
+The light in the study area is flickering.,Electrical,Electrical_02,synthetic_template
+Hostel complaint: the light in the study area is flickering.,Electrical,Electrical_02,synthetic_template
+The light in the study area is flickering. This needs attention.,Electrical,Electrical_02,synthetic_template
+Kindly help us. The light in the study area is flickering.,Electrical,Electrical_02,synthetic_template
+My room's power socket is not working.,Electrical,Electrical_03,synthetic_template
+Please help: my room's power socket is not working.,Electrical,Electrical_03,synthetic_template
+My room's power socket is not working. Please assign the right maintenance team.,Electrical,Electrical_03,synthetic_template
+Please check this. My room's power socket is not working.,Electrical,Electrical_03,synthetic_template
+There are sparks coming from the switchboard.,Electrical,Electrical_04,synthetic_template
+Please help: there are sparks coming from the switchboard.,Electrical,Electrical_04,synthetic_template
+There are sparks coming from the switchboard. Please assign the right maintenance team.,Electrical,Electrical_04,synthetic_template
+Kindly help us. There are sparks coming from the switchboard.,Electrical,Electrical_04,synthetic_template
+The corridor lights are not turning on.,Electrical,Electrical_05,synthetic_template
+Urgent issue: the corridor lights are not turning on.,Electrical,Electrical_05,synthetic_template
+The corridor lights are not turning on. It is affecting hostel residents.,Electrical,Electrical_05,synthetic_template
+Kindly help us. The corridor lights are not turning on.,Electrical,Electrical_05,synthetic_template
+The room has a power outage while nearby rooms have electricity.,Electrical,Electrical_06,synthetic_template
+Urgent issue: the room has a power outage while nearby rooms have electricity.,Electrical,Electrical_06,synthetic_template
+The room has a power outage while nearby rooms have electricity. Please assign the right maintenance team.,Electrical,Electrical_06,synthetic_template
+Please check this. The room has a power outage while nearby rooms have electricity.,Electrical,Electrical_06,synthetic_template
+The switch near the entrance is broken.,Electrical,Electrical_07,synthetic_template
+Could you fix this: the switch near the entrance is broken.,Electrical,Electrical_07,synthetic_template
+The switch near the entrance is broken. This needs attention.,Electrical,Electrical_07,synthetic_template
+I need assistance with this issue. The switch near the entrance is broken.,Electrical,Electrical_07,synthetic_template
+The tube light keeps blinking and making noise.,Electrical,Electrical_08,synthetic_template
+I want to report that the tube light keeps blinking and making noise.,Electrical,Electrical_08,synthetic_template
+The tube light keeps blinking and making noise. Please resolve it.,Electrical,Electrical_08,synthetic_template
+Kindly help us. The tube light keeps blinking and making noise.,Electrical,Electrical_08,synthetic_template
+The electrical outlet smells burnt.,Electrical,Electrical_09,synthetic_template
+Urgent issue: the electrical outlet smells burnt.,Electrical,Electrical_09,synthetic_template
+The electrical outlet smells burnt. Please assign the right maintenance team.,Electrical,Electrical_09,synthetic_template
+I need assistance with this issue. The electrical outlet smells burnt.,Electrical,Electrical_09,synthetic_template
+The fan regulator does not change the speed.,Electrical,Electrical_10,synthetic_template
+Could you fix this: the fan regulator does not change the speed.,Electrical,Electrical_10,synthetic_template
+The fan regulator does not change the speed. Please assign the right maintenance team.,Electrical,Electrical_10,synthetic_template
+I need assistance with this issue. The fan regulator does not change the speed.,Electrical,Electrical_10,synthetic_template
+The bathroom exhaust fan is broken.,Electrical,Electrical_11,synthetic_template
+Hostel complaint: the bathroom exhaust fan is broken.,Electrical,Electrical_11,synthetic_template
+The bathroom exhaust fan is broken. Please resolve it.,Electrical,Electrical_11,synthetic_template
+Please check this. The bathroom exhaust fan is broken.,Electrical,Electrical_11,synthetic_template
+The hallway emergency light is not working.,Electrical,Electrical_12,synthetic_template
+Hostel complaint: the hallway emergency light is not working.,Electrical,Electrical_12,synthetic_template
+The hallway emergency light is not working. It is affecting hostel residents.,Electrical,Electrical_12,synthetic_template
+Please check this. The hallway emergency light is not working.,Electrical,Electrical_12,synthetic_template
+The circuit breaker trips whenever we use the heater.,Electrical,Electrical_13,synthetic_template
+Could you fix this: the circuit breaker trips whenever we use the heater.,Electrical,Electrical_13,synthetic_template
+The circuit breaker trips whenever we use the heater. It is affecting hostel residents.,Electrical,Electrical_13,synthetic_template
+Please check this. The circuit breaker trips whenever we use the heater.,Electrical,Electrical_13,synthetic_template
+The desk lamp connection is loose.,Electrical,Electrical_14,synthetic_template
+Urgent issue: the desk lamp connection is loose.,Electrical,Electrical_14,synthetic_template
+The desk lamp connection is loose. Please resolve it.,Electrical,Electrical_14,synthetic_template
+Kindly help us. The desk lamp connection is loose.,Electrical,Electrical_14,synthetic_template
+The wiring near the door looks damaged.,Electrical,Electrical_15,synthetic_template
+Urgent issue: the wiring near the door looks damaged.,Electrical,Electrical_15,synthetic_template
+The wiring near the door looks damaged. This needs attention.,Electrical,Electrical_15,synthetic_template
+Please check this. The wiring near the door looks damaged.,Electrical,Electrical_15,synthetic_template
+The geyser is not getting power.,Electrical,Electrical_16,synthetic_template
+Could you fix this: the geyser is not getting power.,Electrical,Electrical_16,synthetic_template
+The geyser is not getting power. This needs attention.,Electrical,Electrical_16,synthetic_template
+Kindly help us. The geyser is not getting power.,Electrical,Electrical_16,synthetic_template
+The plug point has become hot during use.,Electrical,Electrical_17,synthetic_template
+Urgent issue: the plug point has become hot during use.,Electrical,Electrical_17,synthetic_template
+The plug point has become hot during use. It is affecting hostel residents.,Electrical,Electrical_17,synthetic_template
+Kindly help us. The plug point has become hot during use.,Electrical,Electrical_17,synthetic_template
+The common room has no electricity.,Electrical,Electrical_18,synthetic_template
+Please help: the common room has no electricity.,Electrical,Electrical_18,synthetic_template
+The common room has no electricity. This needs attention.,Electrical,Electrical_18,synthetic_template
+I need assistance with this issue. The common room has no electricity.,Electrical,Electrical_18,synthetic_template
+The light switch is stuck and cannot be turned off.,Electrical,Electrical_19,synthetic_template
+Hostel complaint: the light switch is stuck and cannot be turned off.,Electrical,Electrical_19,synthetic_template
+The light switch is stuck and cannot be turned off. Please resolve it.,Electrical,Electrical_19,synthetic_template
+I need assistance with this issue. The light switch is stuck and cannot be turned off.,Electrical,Electrical_19,synthetic_template
+The power supply to my room keeps cutting out.,Electrical,Electrical_20,synthetic_template
+Please help: the power supply to my room keeps cutting out.,Electrical,Electrical_20,synthetic_template
+The power supply to my room keeps cutting out. Please assign the right maintenance team.,Electrical,Electrical_20,synthetic_template
+Kindly help us. The power supply to my room keeps cutting out.,Electrical,Electrical_20,synthetic_template
+The hostel Wi-Fi disconnects every few minutes.,Wi-Fi & internet,Wi-Fi_and_internet_01,synthetic_template
+Could you fix this: the hostel Wi-Fi disconnects every few minutes.,Wi-Fi & internet,Wi-Fi_and_internet_01,synthetic_template
+The hostel Wi-Fi disconnects every few minutes. Please assign the right maintenance team.,Wi-Fi & internet,Wi-Fi_and_internet_01,synthetic_template
+I need assistance with this issue. The hostel Wi-Fi disconnects every few minutes.,Wi-Fi & internet,Wi-Fi_and_internet_01,synthetic_template
+I cannot connect my laptop to the hostel network.,Wi-Fi & internet,Wi-Fi_and_internet_02,synthetic_template
+Could you fix this: i cannot connect my laptop to the hostel network.,Wi-Fi & internet,Wi-Fi_and_internet_02,synthetic_template
+I cannot connect my laptop to the hostel network. This needs attention.,Wi-Fi & internet,Wi-Fi_and_internet_02,synthetic_template
+Please check this. I cannot connect my laptop to the hostel network.,Wi-Fi & internet,Wi-Fi_and_internet_02,synthetic_template
+The internet speed is too slow for online classes.,Wi-Fi & internet,Wi-Fi_and_internet_03,synthetic_template
+Could you fix this: the internet speed is too slow for online classes.,Wi-Fi & internet,Wi-Fi_and_internet_03,synthetic_template
+The internet speed is too slow for online classes. This needs attention.,Wi-Fi & internet,Wi-Fi_and_internet_03,synthetic_template
+Please check this. The internet speed is too slow for online classes.,Wi-Fi & internet,Wi-Fi_and_internet_03,synthetic_template
+The Wi-Fi signal is missing in my room.,Wi-Fi & internet,Wi-Fi_and_internet_04,synthetic_template
+Hostel complaint: the Wi-Fi signal is missing in my room.,Wi-Fi & internet,Wi-Fi_and_internet_04,synthetic_template
+The Wi-Fi signal is missing in my room. It is affecting hostel residents.,Wi-Fi & internet,Wi-Fi_and_internet_04,synthetic_template
+Please check this. The Wi-Fi signal is missing in my room.,Wi-Fi & internet,Wi-Fi_and_internet_04,synthetic_template
+The router on our floor appears to be offline.,Wi-Fi & internet,Wi-Fi_and_internet_05,synthetic_template
+Hostel complaint: the router on our floor appears to be offline.,Wi-Fi & internet,Wi-Fi_and_internet_05,synthetic_template
+The router on our floor appears to be offline. Please resolve it.,Wi-Fi & internet,Wi-Fi_and_internet_05,synthetic_template
+Kindly help us. The router on our floor appears to be offline.,Wi-Fi & internet,Wi-Fi_and_internet_05,synthetic_template
+Video lectures keep buffering on hostel internet.,Wi-Fi & internet,Wi-Fi_and_internet_06,synthetic_template
+Hostel complaint: video lectures keep buffering on hostel internet.,Wi-Fi & internet,Wi-Fi_and_internet_06,synthetic_template
+Video lectures keep buffering on hostel internet. This needs attention.,Wi-Fi & internet,Wi-Fi_and_internet_06,synthetic_template
+Please check this. Video lectures keep buffering on hostel internet.,Wi-Fi & internet,Wi-Fi_and_internet_06,synthetic_template
+The hostel network says connected but has no internet.,Wi-Fi & internet,Wi-Fi_and_internet_07,synthetic_template
+Hostel complaint: the hostel network says connected but has no internet.,Wi-Fi & internet,Wi-Fi_and_internet_07,synthetic_template
+The hostel network says connected but has no internet. Please assign the right maintenance team.,Wi-Fi & internet,Wi-Fi_and_internet_07,synthetic_template
+Kindly help us. The hostel network says connected but has no internet.,Wi-Fi & internet,Wi-Fi_and_internet_07,synthetic_template
+My device cannot authenticate on the Wi-Fi.,Wi-Fi & internet,Wi-Fi_and_internet_08,synthetic_template
+Hostel complaint: my device cannot authenticate on the Wi-Fi.,Wi-Fi & internet,Wi-Fi_and_internet_08,synthetic_template
+My device cannot authenticate on the Wi-Fi. Please resolve it.,Wi-Fi & internet,Wi-Fi_and_internet_08,synthetic_template
+Kindly help us. My device cannot authenticate on the Wi-Fi.,Wi-Fi & internet,Wi-Fi_and_internet_08,synthetic_template
+The internet has been down since morning.,Wi-Fi & internet,Wi-Fi_and_internet_09,synthetic_template
+Urgent issue: the internet has been down since morning.,Wi-Fi & internet,Wi-Fi_and_internet_09,synthetic_template
+The internet has been down since morning. Please assign the right maintenance team.,Wi-Fi & internet,Wi-Fi_and_internet_09,synthetic_template
+Please check this. The internet has been down since morning.,Wi-Fi & internet,Wi-Fi_and_internet_09,synthetic_template
+The Wi-Fi coverage is weak in the study room.,Wi-Fi & internet,Wi-Fi_and_internet_10,synthetic_template
+I want to report that the Wi-Fi coverage is weak in the study room.,Wi-Fi & internet,Wi-Fi_and_internet_10,synthetic_template
+The Wi-Fi coverage is weak in the study room. It is affecting hostel residents.,Wi-Fi & internet,Wi-Fi_and_internet_10,synthetic_template
+Kindly help us. The Wi-Fi coverage is weak in the study room.,Wi-Fi & internet,Wi-Fi_and_internet_10,synthetic_template
+Online exams are interrupted by connection drops.,Wi-Fi & internet,Wi-Fi_and_internet_11,synthetic_template
+Hostel complaint: online exams are interrupted by connection drops.,Wi-Fi & internet,Wi-Fi_and_internet_11,synthetic_template
+Online exams are interrupted by connection drops. It is affecting hostel residents.,Wi-Fi & internet,Wi-Fi_and_internet_11,synthetic_template
+Kindly help us. Online exams are interrupted by connection drops.,Wi-Fi & internet,Wi-Fi_and_internet_11,synthetic_template
+The network login page does not load.,Wi-Fi & internet,Wi-Fi_and_internet_12,synthetic_template
+I want to report that the network login page does not load.,Wi-Fi & internet,Wi-Fi_and_internet_12,synthetic_template
+The network login page does not load. It is affecting hostel residents.,Wi-Fi & internet,Wi-Fi_and_internet_12,synthetic_template
+Please check this. The network login page does not load.,Wi-Fi & internet,Wi-Fi_and_internet_12,synthetic_template
+The hostel internet is unavailable at night.,Wi-Fi & internet,Wi-Fi_and_internet_13,synthetic_template
+I want to report that the hostel internet is unavailable at night.,Wi-Fi & internet,Wi-Fi_and_internet_13,synthetic_template
+The hostel internet is unavailable at night. Please assign the right maintenance team.,Wi-Fi & internet,Wi-Fi_and_internet_13,synthetic_template
+I need assistance with this issue. The hostel internet is unavailable at night.,Wi-Fi & internet,Wi-Fi_and_internet_13,synthetic_template
+Downloads stop because the connection keeps dropping.,Wi-Fi & internet,Wi-Fi_and_internet_14,synthetic_template
+Please help: downloads stop because the connection keeps dropping.,Wi-Fi & internet,Wi-Fi_and_internet_14,synthetic_template
+Downloads stop because the connection keeps dropping. It is affecting hostel residents.,Wi-Fi & internet,Wi-Fi_and_internet_14,synthetic_template
+Please check this. Downloads stop because the connection keeps dropping.,Wi-Fi & internet,Wi-Fi_and_internet_14,synthetic_template
+The Wi-Fi is not reaching the far end of our corridor.,Wi-Fi & internet,Wi-Fi_and_internet_15,synthetic_template
+Could you fix this: the Wi-Fi is not reaching the far end of our corridor.,Wi-Fi & internet,Wi-Fi_and_internet_15,synthetic_template
+The Wi-Fi is not reaching the far end of our corridor. Please resolve it.,Wi-Fi & internet,Wi-Fi_and_internet_15,synthetic_template
+Kindly help us. The Wi-Fi is not reaching the far end of our corridor.,Wi-Fi & internet,Wi-Fi_and_internet_15,synthetic_template
+The ethernet connection in the study area is dead.,Wi-Fi & internet,Wi-Fi_and_internet_16,synthetic_template
+Urgent issue: the ethernet connection in the study area is dead.,Wi-Fi & internet,Wi-Fi_and_internet_16,synthetic_template
+The ethernet connection in the study area is dead. It is affecting hostel residents.,Wi-Fi & internet,Wi-Fi_and_internet_16,synthetic_template
+I need assistance with this issue. The ethernet connection in the study area is dead.,Wi-Fi & internet,Wi-Fi_and_internet_16,synthetic_template
+The network is extremely slow for everyone on this floor.,Wi-Fi & internet,Wi-Fi_and_internet_17,synthetic_template
+Hostel complaint: the network is extremely slow for everyone on this floor.,Wi-Fi & internet,Wi-Fi_and_internet_17,synthetic_template
+The network is extremely slow for everyone on this floor. Please assign the right maintenance team.,Wi-Fi & internet,Wi-Fi_and_internet_17,synthetic_template
+Please check this. The network is extremely slow for everyone on this floor.,Wi-Fi & internet,Wi-Fi_and_internet_17,synthetic_template
+I keep getting disconnected from the hostel Wi-Fi.,Wi-Fi & internet,Wi-Fi_and_internet_18,synthetic_template
+Urgent issue: i keep getting disconnected from the hostel Wi-Fi.,Wi-Fi & internet,Wi-Fi_and_internet_18,synthetic_template
+I keep getting disconnected from the hostel Wi-Fi. Please assign the right maintenance team.,Wi-Fi & internet,Wi-Fi_and_internet_18,synthetic_template
+I need assistance with this issue. I keep getting disconnected from the hostel Wi-Fi.,Wi-Fi & internet,Wi-Fi_and_internet_18,synthetic_template
+The access point light is off and no one has internet.,Wi-Fi & internet,Wi-Fi_and_internet_19,synthetic_template
+Hostel complaint: the access point light is off and no one has internet.,Wi-Fi & internet,Wi-Fi_and_internet_19,synthetic_template
+The access point light is off and no one has internet. Please assign the right maintenance team.,Wi-Fi & internet,Wi-Fi_and_internet_19,synthetic_template
+Please check this. The access point light is off and no one has internet.,Wi-Fi & internet,Wi-Fi_and_internet_19,synthetic_template
+The internet does not work in our block.,Wi-Fi & internet,Wi-Fi_and_internet_20,synthetic_template
+Please help: the internet does not work in our block.,Wi-Fi & internet,Wi-Fi_and_internet_20,synthetic_template
+The internet does not work in our block. Please resolve it.,Wi-Fi & internet,Wi-Fi_and_internet_20,synthetic_template
+Please check this. The internet does not work in our block.,Wi-Fi & internet,Wi-Fi_and_internet_20,synthetic_template
+Our shared bathroom has not been cleaned today.,Cleanliness,Cleanliness_01,synthetic_template
+Hostel complaint: our shared bathroom has not been cleaned today.,Cleanliness,Cleanliness_01,synthetic_template
+Our shared bathroom has not been cleaned today. Please assign the right maintenance team.,Cleanliness,Cleanliness_01,synthetic_template
+I need assistance with this issue. Our shared bathroom has not been cleaned today.,Cleanliness,Cleanliness_01,synthetic_template
+Garbage is overflowing from the floor's dustbin.,Cleanliness,Cleanliness_02,synthetic_template
+Hostel complaint: garbage is overflowing from the floor's dustbin.,Cleanliness,Cleanliness_02,synthetic_template
+Garbage is overflowing from the floor's dustbin. It is affecting hostel residents.,Cleanliness,Cleanliness_02,synthetic_template
+I need assistance with this issue. Garbage is overflowing from the floor's dustbin.,Cleanliness,Cleanliness_02,synthetic_template
+The corridor smells bad and needs cleaning.,Cleanliness,Cleanliness_03,synthetic_template
+Please help: the corridor smells bad and needs cleaning.,Cleanliness,Cleanliness_03,synthetic_template
+The corridor smells bad and needs cleaning. It is affecting hostel residents.,Cleanliness,Cleanliness_03,synthetic_template
+I need assistance with this issue. The corridor smells bad and needs cleaning.,Cleanliness,Cleanliness_03,synthetic_template
+There are insects around the uncollected trash.,Cleanliness,Cleanliness_04,synthetic_template
+Urgent issue: there are insects around the uncollected trash.,Cleanliness,Cleanliness_04,synthetic_template
+There are insects around the uncollected trash. Please assign the right maintenance team.,Cleanliness,Cleanliness_04,synthetic_template
+I need assistance with this issue. There are insects around the uncollected trash.,Cleanliness,Cleanliness_04,synthetic_template
+The washroom floor is dirty and slippery.,Cleanliness,Cleanliness_05,synthetic_template
+Please help: the washroom floor is dirty and slippery.,Cleanliness,Cleanliness_05,synthetic_template
+The washroom floor is dirty and slippery. Please assign the right maintenance team.,Cleanliness,Cleanliness_05,synthetic_template
+Kindly help us. The washroom floor is dirty and slippery.,Cleanliness,Cleanliness_05,synthetic_template
+The common room has food waste on the tables.,Cleanliness,Cleanliness_06,synthetic_template
+I want to report that the common room has food waste on the tables.,Cleanliness,Cleanliness_06,synthetic_template
+The common room has food waste on the tables. Please assign the right maintenance team.,Cleanliness,Cleanliness_06,synthetic_template
+Please check this. The common room has food waste on the tables.,Cleanliness,Cleanliness_06,synthetic_template
+The cleaners have missed our room for several days.,Cleanliness,Cleanliness_07,synthetic_template
+I want to report that the cleaners have missed our room for several days.,Cleanliness,Cleanliness_07,synthetic_template
+The cleaners have missed our room for several days. This needs attention.,Cleanliness,Cleanliness_07,synthetic_template
+Kindly help us. The cleaners have missed our room for several days.,Cleanliness,Cleanliness_07,synthetic_template
+The staircase has dust and litter everywhere.,Cleanliness,Cleanliness_08,synthetic_template
+I want to report that the staircase has dust and litter everywhere.,Cleanliness,Cleanliness_08,synthetic_template
+The staircase has dust and litter everywhere. This needs attention.,Cleanliness,Cleanliness_08,synthetic_template
+I need assistance with this issue. The staircase has dust and litter everywhere.,Cleanliness,Cleanliness_08,synthetic_template
+The bin near the lift has not been emptied.,Cleanliness,Cleanliness_09,synthetic_template
+Could you fix this: the bin near the lift has not been emptied.,Cleanliness,Cleanliness_09,synthetic_template
+The bin near the lift has not been emptied. It is affecting hostel residents.,Cleanliness,Cleanliness_09,synthetic_template
+Please check this. The bin near the lift has not been emptied.,Cleanliness,Cleanliness_09,synthetic_template
+The bathroom mirrors and sinks are dirty.,Cleanliness,Cleanliness_10,synthetic_template
+I want to report that the bathroom mirrors and sinks are dirty.,Cleanliness,Cleanliness_10,synthetic_template
+The bathroom mirrors and sinks are dirty. It is affecting hostel residents.,Cleanliness,Cleanliness_10,synthetic_template
+Please check this. The bathroom mirrors and sinks are dirty.,Cleanliness,Cleanliness_10,synthetic_template
+Water stains and grime have built up in the shower.,Cleanliness,Cleanliness_11,synthetic_template
+Could you fix this: water stains and grime have built up in the shower.,Cleanliness,Cleanliness_11,synthetic_template
+Water stains and grime have built up in the shower. This needs attention.,Cleanliness,Cleanliness_11,synthetic_template
+Kindly help us. Water stains and grime have built up in the shower.,Cleanliness,Cleanliness_11,synthetic_template
+Trash has been left outside the hostel entrance.,Cleanliness,Cleanliness_12,synthetic_template
+I want to report that trash has been left outside the hostel entrance.,Cleanliness,Cleanliness_12,synthetic_template
+Trash has been left outside the hostel entrance. This needs attention.,Cleanliness,Cleanliness_12,synthetic_template
+I need assistance with this issue. Trash has been left outside the hostel entrance.,Cleanliness,Cleanliness_12,synthetic_template
+The common kitchen counter is unhygienic.,Cleanliness,Cleanliness_13,synthetic_template
+Please help: the common kitchen counter is unhygienic.,Cleanliness,Cleanliness_13,synthetic_template
+The common kitchen counter is unhygienic. Please assign the right maintenance team.,Cleanliness,Cleanliness_13,synthetic_template
+I need assistance with this issue. The common kitchen counter is unhygienic.,Cleanliness,Cleanliness_13,synthetic_template
+The toilet needs urgent cleaning.,Cleanliness,Cleanliness_14,synthetic_template
+Urgent issue: the toilet needs urgent cleaning.,Cleanliness,Cleanliness_14,synthetic_template
+The toilet needs urgent cleaning. It is affecting hostel residents.,Cleanliness,Cleanliness_14,synthetic_template
+I need assistance with this issue. The toilet needs urgent cleaning.,Cleanliness,Cleanliness_14,synthetic_template
+The laundry area is dirty and smells unpleasant.,Cleanliness,Cleanliness_15,synthetic_template
+Hostel complaint: the laundry area is dirty and smells unpleasant.,Cleanliness,Cleanliness_15,synthetic_template
+The laundry area is dirty and smells unpleasant. This needs attention.,Cleanliness,Cleanliness_15,synthetic_template
+I need assistance with this issue. The laundry area is dirty and smells unpleasant.,Cleanliness,Cleanliness_15,synthetic_template
+The floor has muddy footprints that were not cleaned.,Cleanliness,Cleanliness_16,synthetic_template
+Could you fix this: the floor has muddy footprints that were not cleaned.,Cleanliness,Cleanliness_16,synthetic_template
+The floor has muddy footprints that were not cleaned. This needs attention.,Cleanliness,Cleanliness_16,synthetic_template
+Please check this. The floor has muddy footprints that were not cleaned.,Cleanliness,Cleanliness_16,synthetic_template
+Cleaning supplies are missing from the washroom.,Cleanliness,Cleanliness_17,synthetic_template
+I want to report that cleaning supplies are missing from the washroom.,Cleanliness,Cleanliness_17,synthetic_template
+Cleaning supplies are missing from the washroom. Please resolve it.,Cleanliness,Cleanliness_17,synthetic_template
+Please check this. Cleaning supplies are missing from the washroom.,Cleanliness,Cleanliness_17,synthetic_template
+Rubbish is scattered near the hostel block.,Cleanliness,Cleanliness_18,synthetic_template
+Please help: rubbish is scattered near the hostel block.,Cleanliness,Cleanliness_18,synthetic_template
+Rubbish is scattered near the hostel block. It is affecting hostel residents.,Cleanliness,Cleanliness_18,synthetic_template
+Kindly help us. Rubbish is scattered near the hostel block.,Cleanliness,Cleanliness_18,synthetic_template
+The drain area is full of dirt and hair.,Cleanliness,Cleanliness_19,synthetic_template
+Urgent issue: the drain area is full of dirt and hair.,Cleanliness,Cleanliness_19,synthetic_template
+The drain area is full of dirt and hair. This needs attention.,Cleanliness,Cleanliness_19,synthetic_template
+Kindly help us. The drain area is full of dirt and hair.,Cleanliness,Cleanliness_19,synthetic_template
+The shared study area needs sweeping and mopping.,Cleanliness,Cleanliness_20,synthetic_template
+Please help: the shared study area needs sweeping and mopping.,Cleanliness,Cleanliness_20,synthetic_template
+The shared study area needs sweeping and mopping. It is affecting hostel residents.,Cleanliness,Cleanliness_20,synthetic_template
+I need assistance with this issue. The shared study area needs sweeping and mopping.,Cleanliness,Cleanliness_20,synthetic_template
+The tap in my bathroom is leaking.,Water & plumbing,Water_and_plumbing_01,synthetic_template
+Could you fix this: the tap in my bathroom is leaking.,Water & plumbing,Water_and_plumbing_01,synthetic_template
+The tap in my bathroom is leaking. Please resolve it.,Water & plumbing,Water_and_plumbing_01,synthetic_template
+I need assistance with this issue. The tap in my bathroom is leaking.,Water & plumbing,Water_and_plumbing_01,synthetic_template
+There is no water in the washroom.,Water & plumbing,Water_and_plumbing_02,synthetic_template
+Urgent issue: there is no water in the washroom.,Water & plumbing,Water_and_plumbing_02,synthetic_template
+There is no water in the washroom. This needs attention.,Water & plumbing,Water_and_plumbing_02,synthetic_template
+I need assistance with this issue. There is no water in the washroom.,Water & plumbing,Water_and_plumbing_02,synthetic_template
+The toilet flush is not working.,Water & plumbing,Water_and_plumbing_03,synthetic_template
+Please help: the toilet flush is not working.,Water & plumbing,Water_and_plumbing_03,synthetic_template
+The toilet flush is not working. This needs attention.,Water & plumbing,Water_and_plumbing_03,synthetic_template
+Please check this. The toilet flush is not working.,Water & plumbing,Water_and_plumbing_03,synthetic_template
+The washbasin drain is blocked.,Water & plumbing,Water_and_plumbing_04,synthetic_template
+I want to report that the washbasin drain is blocked.,Water & plumbing,Water_and_plumbing_04,synthetic_template
+The washbasin drain is blocked. Please assign the right maintenance team.,Water & plumbing,Water_and_plumbing_04,synthetic_template
+I need assistance with this issue. The washbasin drain is blocked.,Water & plumbing,Water_and_plumbing_04,synthetic_template
+Water is leaking from the pipe under the sink.,Water & plumbing,Water_and_plumbing_05,synthetic_template
+Urgent issue: water is leaking from the pipe under the sink.,Water & plumbing,Water_and_plumbing_05,synthetic_template
+Water is leaking from the pipe under the sink. This needs attention.,Water & plumbing,Water_and_plumbing_05,synthetic_template
+Kindly help us. Water is leaking from the pipe under the sink.,Water & plumbing,Water_and_plumbing_05,synthetic_template
+The shower has very low water pressure.,Water & plumbing,Water_and_plumbing_06,synthetic_template
+Please help: the shower has very low water pressure.,Water & plumbing,Water_and_plumbing_06,synthetic_template
+The shower has very low water pressure. This needs attention.,Water & plumbing,Water_and_plumbing_06,synthetic_template
+Please check this. The shower has very low water pressure.,Water & plumbing,Water_and_plumbing_06,synthetic_template
+The toilet is overflowing and needs repair.,Water & plumbing,Water_and_plumbing_07,synthetic_template
+I want to report that the toilet is overflowing and needs repair.,Water & plumbing,Water_and_plumbing_07,synthetic_template
+The toilet is overflowing and needs repair. It is affecting hostel residents.,Water & plumbing,Water_and_plumbing_07,synthetic_template
+I need assistance with this issue. The toilet is overflowing and needs repair.,Water & plumbing,Water_and_plumbing_07,synthetic_template
+The tap handle has broken off.,Water & plumbing,Water_and_plumbing_08,synthetic_template
+Could you fix this: the tap handle has broken off.,Water & plumbing,Water_and_plumbing_08,synthetic_template
+The tap handle has broken off. This needs attention.,Water & plumbing,Water_and_plumbing_08,synthetic_template
+Kindly help us. The tap handle has broken off.,Water & plumbing,Water_and_plumbing_08,synthetic_template
+There is dirty water coming from the bathroom tap.,Water & plumbing,Water_and_plumbing_09,synthetic_template
+Hostel complaint: there is dirty water coming from the bathroom tap.,Water & plumbing,Water_and_plumbing_09,synthetic_template
+There is dirty water coming from the bathroom tap. This needs attention.,Water & plumbing,Water_and_plumbing_09,synthetic_template
+Kindly help us. There is dirty water coming from the bathroom tap.,Water & plumbing,Water_and_plumbing_09,synthetic_template
+The water supply on our floor has stopped.,Water & plumbing,Water_and_plumbing_10,synthetic_template
+Could you fix this: the water supply on our floor has stopped.,Water & plumbing,Water_and_plumbing_10,synthetic_template
+The water supply on our floor has stopped. This needs attention.,Water & plumbing,Water_and_plumbing_10,synthetic_template
+Kindly help us. The water supply on our floor has stopped.,Water & plumbing,Water_and_plumbing_10,synthetic_template
+The bathroom drain is clogged and water pools on the floor.,Water & plumbing,Water_and_plumbing_11,synthetic_template
+I want to report that the bathroom drain is clogged and water pools on the floor.,Water & plumbing,Water_and_plumbing_11,synthetic_template
+The bathroom drain is clogged and water pools on the floor. Please assign the right maintenance team.,Water & plumbing,Water_and_plumbing_11,synthetic_template
+Kindly help us. The bathroom drain is clogged and water pools on the floor.,Water & plumbing,Water_and_plumbing_11,synthetic_template
+The pipe is leaking near our room entrance.,Water & plumbing,Water_and_plumbing_12,synthetic_template
+Hostel complaint: the pipe is leaking near our room entrance.,Water & plumbing,Water_and_plumbing_12,synthetic_template
+The pipe is leaking near our room entrance. Please assign the right maintenance team.,Water & plumbing,Water_and_plumbing_12,synthetic_template
+Please check this. The pipe is leaking near our room entrance.,Water & plumbing,Water_and_plumbing_12,synthetic_template
+The geyser has water but it is not draining properly.,Water & plumbing,Water_and_plumbing_13,synthetic_template
+Please help: the geyser has water but it is not draining properly.,Water & plumbing,Water_and_plumbing_13,synthetic_template
+The geyser has water but it is not draining properly. Please resolve it.,Water & plumbing,Water_and_plumbing_13,synthetic_template
+I need assistance with this issue. The geyser has water but it is not draining properly.,Water & plumbing,Water_and_plumbing_13,synthetic_template
+The washroom tap will not close completely.,Water & plumbing,Water_and_plumbing_14,synthetic_template
+Could you fix this: the washroom tap will not close completely.,Water & plumbing,Water_and_plumbing_14,synthetic_template
+The washroom tap will not close completely. Please resolve it.,Water & plumbing,Water_and_plumbing_14,synthetic_template
+I need assistance with this issue. The washroom tap will not close completely.,Water & plumbing,Water_and_plumbing_14,synthetic_template
+There is a leak from the ceiling near the bathroom pipe.,Water & plumbing,Water_and_plumbing_15,synthetic_template
+Urgent issue: there is a leak from the ceiling near the bathroom pipe.,Water & plumbing,Water_and_plumbing_15,synthetic_template
+There is a leak from the ceiling near the bathroom pipe. Please resolve it.,Water & plumbing,Water_and_plumbing_15,synthetic_template
+Kindly help us. There is a leak from the ceiling near the bathroom pipe.,Water & plumbing,Water_and_plumbing_15,synthetic_template
+The water cooler tap is broken.,Water & plumbing,Water_and_plumbing_16,synthetic_template
+I want to report that the water cooler tap is broken.,Water & plumbing,Water_and_plumbing_16,synthetic_template
+The water cooler tap is broken. It is affecting hostel residents.,Water & plumbing,Water_and_plumbing_16,synthetic_template
+I need assistance with this issue. The water cooler tap is broken.,Water & plumbing,Water_and_plumbing_16,synthetic_template
+The toilet seat area keeps flooding because of a leak.,Water & plumbing,Water_and_plumbing_17,synthetic_template
+Hostel complaint: the toilet seat area keeps flooding because of a leak.,Water & plumbing,Water_and_plumbing_17,synthetic_template
+The toilet seat area keeps flooding because of a leak. Please resolve it.,Water & plumbing,Water_and_plumbing_17,synthetic_template
+I need assistance with this issue. The toilet seat area keeps flooding because of a leak.,Water & plumbing,Water_and_plumbing_17,synthetic_template
+The bathroom shower does not release any water.,Water & plumbing,Water_and_plumbing_18,synthetic_template
+Could you fix this: the bathroom shower does not release any water.,Water & plumbing,Water_and_plumbing_18,synthetic_template
+The bathroom shower does not release any water. Please resolve it.,Water & plumbing,Water_and_plumbing_18,synthetic_template
+Kindly help us. The bathroom shower does not release any water.,Water & plumbing,Water_and_plumbing_18,synthetic_template
+The sink is blocked and water stays in the basin.,Water & plumbing,Water_and_plumbing_19,synthetic_template
+Hostel complaint: the sink is blocked and water stays in the basin.,Water & plumbing,Water_and_plumbing_19,synthetic_template
+The sink is blocked and water stays in the basin. Please assign the right maintenance team.,Water & plumbing,Water_and_plumbing_19,synthetic_template
+I need assistance with this issue. The sink is blocked and water stays in the basin.,Water & plumbing,Water_and_plumbing_19,synthetic_template
+The overhead tank supply seems interrupted.,Water & plumbing,Water_and_plumbing_20,synthetic_template
+Hostel complaint: the overhead tank supply seems interrupted.,Water & plumbing,Water_and_plumbing_20,synthetic_template
+The overhead tank supply seems interrupted. This needs attention.,Water & plumbing,Water_and_plumbing_20,synthetic_template
+I need assistance with this issue. The overhead tank supply seems interrupted.,Water & plumbing,Water_and_plumbing_20,synthetic_template
+The food served in the mess was cold.,Mess & food,Mess_and_food_01,synthetic_template
+Please help: the food served in the mess was cold.,Mess & food,Mess_and_food_01,synthetic_template
+The food served in the mess was cold. Please assign the right maintenance team.,Mess & food,Mess_and_food_01,synthetic_template
+Please check this. The food served in the mess was cold.,Mess & food,Mess_and_food_01,synthetic_template
+The dinner was undercooked today.,Mess & food,Mess_and_food_02,synthetic_template
+Urgent issue: the dinner was undercooked today.,Mess & food,Mess_and_food_02,synthetic_template
+The dinner was undercooked today. Please assign the right maintenance team.,Mess & food,Mess_and_food_02,synthetic_template
+Please check this. The dinner was undercooked today.,Mess & food,Mess_and_food_02,synthetic_template
+There was an insect in the food tray.,Mess & food,Mess_and_food_03,synthetic_template
+Urgent issue: there was an insect in the food tray.,Mess & food,Mess_and_food_03,synthetic_template
+There was an insect in the food tray. This needs attention.,Mess & food,Mess_and_food_03,synthetic_template
+Kindly help us. There was an insect in the food tray.,Mess & food,Mess_and_food_03,synthetic_template
+The mess menu was not followed.,Mess & food,Mess_and_food_04,synthetic_template
+Please help: the mess menu was not followed.,Mess & food,Mess_and_food_04,synthetic_template
+The mess menu was not followed. Please resolve it.,Mess & food,Mess_and_food_04,synthetic_template
+I need assistance with this issue. The mess menu was not followed.,Mess & food,Mess_and_food_04,synthetic_template
+The drinking water near the dining hall tastes unusual.,Mess & food,Mess_and_food_05,synthetic_template
+Please help: the drinking water near the dining hall tastes unusual.,Mess & food,Mess_and_food_05,synthetic_template
+The drinking water near the dining hall tastes unusual. This needs attention.,Mess & food,Mess_and_food_05,synthetic_template
+I need assistance with this issue. The drinking water near the dining hall tastes unusual.,Mess & food,Mess_and_food_05,synthetic_template
+The food portions are too small for the listed meal.,Mess & food,Mess_and_food_06,synthetic_template
+Please help: the food portions are too small for the listed meal.,Mess & food,Mess_and_food_06,synthetic_template
+The food portions are too small for the listed meal. Please assign the right maintenance team.,Mess & food,Mess_and_food_06,synthetic_template
+Please check this. The food portions are too small for the listed meal.,Mess & food,Mess_and_food_06,synthetic_template
+The breakfast was served much later than scheduled.,Mess & food,Mess_and_food_07,synthetic_template
+Please help: the breakfast was served much later than scheduled.,Mess & food,Mess_and_food_07,synthetic_template
+The breakfast was served much later than scheduled. Please assign the right maintenance team.,Mess & food,Mess_and_food_07,synthetic_template
+Kindly help us. The breakfast was served much later than scheduled.,Mess & food,Mess_and_food_07,synthetic_template
+The dining tables were dirty during lunch.,Mess & food,Mess_and_food_08,synthetic_template
+Please help: the dining tables were dirty during lunch.,Mess & food,Mess_and_food_08,synthetic_template
+The dining tables were dirty during lunch. This needs attention.,Mess & food,Mess_and_food_08,synthetic_template
+Kindly help us. The dining tables were dirty during lunch.,Mess & food,Mess_and_food_08,synthetic_template
+The meal smelled spoiled and should be checked.,Mess & food,Mess_and_food_09,synthetic_template
+Could you fix this: the meal smelled spoiled and should be checked.,Mess & food,Mess_and_food_09,synthetic_template
+The meal smelled spoiled and should be checked. Please assign the right maintenance team.,Mess & food,Mess_and_food_09,synthetic_template
+I need assistance with this issue. The meal smelled spoiled and should be checked.,Mess & food,Mess_and_food_09,synthetic_template
+The mess did not provide the announced vegetarian option.,Mess & food,Mess_and_food_10,synthetic_template
+I want to report that the mess did not provide the announced vegetarian option.,Mess & food,Mess_and_food_10,synthetic_template
+The mess did not provide the announced vegetarian option. Please assign the right maintenance team.,Mess & food,Mess_and_food_10,synthetic_template
+I need assistance with this issue. The mess did not provide the announced vegetarian option.,Mess & food,Mess_and_food_10,synthetic_template
+The food quality has been poor this week.,Mess & food,Mess_and_food_11,synthetic_template
+I want to report that the food quality has been poor this week.,Mess & food,Mess_and_food_11,synthetic_template
+The food quality has been poor this week. Please resolve it.,Mess & food,Mess_and_food_11,synthetic_template
+Please check this. The food quality has been poor this week.,Mess & food,Mess_and_food_11,synthetic_template
+The serving counter ran out of food before the end of dinner.,Mess & food,Mess_and_food_12,synthetic_template
+Could you fix this: the serving counter ran out of food before the end of dinner.,Mess & food,Mess_and_food_12,synthetic_template
+The serving counter ran out of food before the end of dinner. This needs attention.,Mess & food,Mess_and_food_12,synthetic_template
+I need assistance with this issue. The serving counter ran out of food before the end of dinner.,Mess & food,Mess_and_food_12,synthetic_template
+The rice served at dinner was not fully cooked.,Mess & food,Mess_and_food_13,synthetic_template
+Hostel complaint: the rice served at dinner was not fully cooked.,Mess & food,Mess_and_food_13,synthetic_template
+The rice served at dinner was not fully cooked. It is affecting hostel residents.,Mess & food,Mess_and_food_13,synthetic_template
+Please check this. The rice served at dinner was not fully cooked.,Mess & food,Mess_and_food_13,synthetic_template
+The mess staff ignored a food hygiene concern.,Mess & food,Mess_and_food_14,synthetic_template
+Please help: the mess staff ignored a food hygiene concern.,Mess & food,Mess_and_food_14,synthetic_template
+The mess staff ignored a food hygiene concern. This needs attention.,Mess & food,Mess_and_food_14,synthetic_template
+I need assistance with this issue. The mess staff ignored a food hygiene concern.,Mess & food,Mess_and_food_14,synthetic_template
+The dinner menu displayed outside did not match the meal.,Mess & food,Mess_and_food_15,synthetic_template
+Urgent issue: the dinner menu displayed outside did not match the meal.,Mess & food,Mess_and_food_15,synthetic_template
+The dinner menu displayed outside did not match the meal. This needs attention.,Mess & food,Mess_and_food_15,synthetic_template
+I need assistance with this issue. The dinner menu displayed outside did not match the meal.,Mess & food,Mess_and_food_15,synthetic_template
+There were foreign particles in my meal.,Mess & food,Mess_and_food_16,synthetic_template
+Could you fix this: there were foreign particles in my meal.,Mess & food,Mess_and_food_16,synthetic_template
+There were foreign particles in my meal. Please resolve it.,Mess & food,Mess_and_food_16,synthetic_template
+I need assistance with this issue. There were foreign particles in my meal.,Mess & food,Mess_and_food_16,synthetic_template
+The mess queue is too long and service is slow.,Mess & food,Mess_and_food_17,synthetic_template
+Hostel complaint: the mess queue is too long and service is slow.,Mess & food,Mess_and_food_17,synthetic_template
+The mess queue is too long and service is slow. This needs attention.,Mess & food,Mess_and_food_17,synthetic_template
+Kindly help us. The mess queue is too long and service is slow.,Mess & food,Mess_and_food_17,synthetic_template
+The food was excessively oily today.,Mess & food,Mess_and_food_18,synthetic_template
+I want to report that the food was excessively oily today.,Mess & food,Mess_and_food_18,synthetic_template
+The food was excessively oily today. It is affecting hostel residents.,Mess & food,Mess_and_food_18,synthetic_template
+Please check this. The food was excessively oily today.,Mess & food,Mess_and_food_18,synthetic_template
+The dining area needs better food-safety checks.,Mess & food,Mess_and_food_19,synthetic_template
+Hostel complaint: the dining area needs better food-safety checks.,Mess & food,Mess_and_food_19,synthetic_template
+The dining area needs better food-safety checks. Please assign the right maintenance team.,Mess & food,Mess_and_food_19,synthetic_template
+Kindly help us. The dining area needs better food-safety checks.,Mess & food,Mess_and_food_19,synthetic_template
+The mess did not provide the requested special meal.,Mess & food,Mess_and_food_20,synthetic_template
+Hostel complaint: the mess did not provide the requested special meal.,Mess & food,Mess_and_food_20,synthetic_template
+The mess did not provide the requested special meal. This needs attention.,Mess & food,Mess_and_food_20,synthetic_template
+Please check this. The mess did not provide the requested special meal.,Mess & food,Mess_and_food_20,synthetic_template
+The chair in my room has a broken leg.,Furniture,Furniture_01,synthetic_template
+I want to report that the chair in my room has a broken leg.,Furniture,Furniture_01,synthetic_template
+The chair in my room has a broken leg. It is affecting hostel residents.,Furniture,Furniture_01,synthetic_template
+Please check this. The chair in my room has a broken leg.,Furniture,Furniture_01,synthetic_template
+My study table is unstable and wobbles.,Furniture,Furniture_02,synthetic_template
+Could you fix this: my study table is unstable and wobbles.,Furniture,Furniture_02,synthetic_template
+My study table is unstable and wobbles. Please assign the right maintenance team.,Furniture,Furniture_02,synthetic_template
+Please check this. My study table is unstable and wobbles.,Furniture,Furniture_02,synthetic_template
+The cupboard door hinge has come loose.,Furniture,Furniture_03,synthetic_template
+I want to report that the cupboard door hinge has come loose.,Furniture,Furniture_03,synthetic_template
+The cupboard door hinge has come loose. Please assign the right maintenance team.,Furniture,Furniture_03,synthetic_template
+Please check this. The cupboard door hinge has come loose.,Furniture,Furniture_03,synthetic_template
+The bed frame is damaged and makes noise.,Furniture,Furniture_04,synthetic_template
+Please help: the bed frame is damaged and makes noise.,Furniture,Furniture_04,synthetic_template
+The bed frame is damaged and makes noise. Please assign the right maintenance team.,Furniture,Furniture_04,synthetic_template
+Kindly help us. The bed frame is damaged and makes noise.,Furniture,Furniture_04,synthetic_template
+The mattress is torn and uncomfortable.,Furniture,Furniture_05,synthetic_template
+Please help: the mattress is torn and uncomfortable.,Furniture,Furniture_05,synthetic_template
+The mattress is torn and uncomfortable. This needs attention.,Furniture,Furniture_05,synthetic_template
+Please check this. The mattress is torn and uncomfortable.,Furniture,Furniture_05,synthetic_template
+The desk drawer is stuck and will not open.,Furniture,Furniture_06,synthetic_template
+Urgent issue: the desk drawer is stuck and will not open.,Furniture,Furniture_06,synthetic_template
+The desk drawer is stuck and will not open. Please assign the right maintenance team.,Furniture,Furniture_06,synthetic_template
+Kindly help us. The desk drawer is stuck and will not open.,Furniture,Furniture_06,synthetic_template
+The wardrobe lock is broken.,Furniture,Furniture_07,synthetic_template
+Could you fix this: the wardrobe lock is broken.,Furniture,Furniture_07,synthetic_template
+The wardrobe lock is broken. It is affecting hostel residents.,Furniture,Furniture_07,synthetic_template
+Please check this. The wardrobe lock is broken.,Furniture,Furniture_07,synthetic_template
+The room chair has a sharp broken edge.,Furniture,Furniture_08,synthetic_template
+Please help: the room chair has a sharp broken edge.,Furniture,Furniture_08,synthetic_template
+The room chair has a sharp broken edge. Please assign the right maintenance team.,Furniture,Furniture_08,synthetic_template
+Kindly help us. The room chair has a sharp broken edge.,Furniture,Furniture_08,synthetic_template
+The table surface is cracked.,Furniture,Furniture_09,synthetic_template
+Could you fix this: the table surface is cracked.,Furniture,Furniture_09,synthetic_template
+The table surface is cracked. Please resolve it.,Furniture,Furniture_09,synthetic_template
+Please check this. The table surface is cracked.,Furniture,Furniture_09,synthetic_template
+The bed slats are missing and the mattress sags.,Furniture,Furniture_10,synthetic_template
+Please help: the bed slats are missing and the mattress sags.,Furniture,Furniture_10,synthetic_template
+The bed slats are missing and the mattress sags. Please resolve it.,Furniture,Furniture_10,synthetic_template
+I need assistance with this issue. The bed slats are missing and the mattress sags.,Furniture,Furniture_10,synthetic_template
+The cupboard shelf has collapsed.,Furniture,Furniture_11,synthetic_template
+Hostel complaint: the cupboard shelf has collapsed.,Furniture,Furniture_11,synthetic_template
+The cupboard shelf has collapsed. This needs attention.,Furniture,Furniture_11,synthetic_template
+Please check this. The cupboard shelf has collapsed.,Furniture,Furniture_11,synthetic_template
+The study desk is missing a handle.,Furniture,Furniture_12,synthetic_template
+Could you fix this: the study desk is missing a handle.,Furniture,Furniture_12,synthetic_template
+The study desk is missing a handle. This needs attention.,Furniture,Furniture_12,synthetic_template
+Kindly help us. The study desk is missing a handle.,Furniture,Furniture_12,synthetic_template
+The chair backrest is loose and unsafe.,Furniture,Furniture_13,synthetic_template
+Could you fix this: the chair backrest is loose and unsafe.,Furniture,Furniture_13,synthetic_template
+The chair backrest is loose and unsafe. This needs attention.,Furniture,Furniture_13,synthetic_template
+Please check this. The chair backrest is loose and unsafe.,Furniture,Furniture_13,synthetic_template
+The hostel room has a broken bookshelf.,Furniture,Furniture_14,synthetic_template
+Could you fix this: the hostel room has a broken bookshelf.,Furniture,Furniture_14,synthetic_template
+The hostel room has a broken bookshelf. Please assign the right maintenance team.,Furniture,Furniture_14,synthetic_template
+Please check this. The hostel room has a broken bookshelf.,Furniture,Furniture_14,synthetic_template
+The bed ladder is loose and needs fixing.,Furniture,Furniture_15,synthetic_template
+Urgent issue: the bed ladder is loose and needs fixing.,Furniture,Furniture_15,synthetic_template
+The bed ladder is loose and needs fixing. Please assign the right maintenance team.,Furniture,Furniture_15,synthetic_template
+Kindly help us. The bed ladder is loose and needs fixing.,Furniture,Furniture_15,synthetic_template
+The wardrobe door does not close properly.,Furniture,Furniture_16,synthetic_template
+I want to report that the wardrobe door does not close properly.,Furniture,Furniture_16,synthetic_template
+The wardrobe door does not close properly. It is affecting hostel residents.,Furniture,Furniture_16,synthetic_template
+Kindly help us. The wardrobe door does not close properly.,Furniture,Furniture_16,synthetic_template
+The desk is missing a leg support.,Furniture,Furniture_17,synthetic_template
+Please help: the desk is missing a leg support.,Furniture,Furniture_17,synthetic_template
+The desk is missing a leg support. Please resolve it.,Furniture,Furniture_17,synthetic_template
+I need assistance with this issue. The desk is missing a leg support.,Furniture,Furniture_17,synthetic_template
+The cupboard is damaged and cannot hold clothes.,Furniture,Furniture_18,synthetic_template
+Please help: the cupboard is damaged and cannot hold clothes.,Furniture,Furniture_18,synthetic_template
+The cupboard is damaged and cannot hold clothes. This needs attention.,Furniture,Furniture_18,synthetic_template
+I need assistance with this issue. The cupboard is damaged and cannot hold clothes.,Furniture,Furniture_18,synthetic_template
+The furniture screws are loose and parts move.,Furniture,Furniture_19,synthetic_template
+Could you fix this: the furniture screws are loose and parts move.,Furniture,Furniture_19,synthetic_template
+The furniture screws are loose and parts move. It is affecting hostel residents.,Furniture,Furniture_19,synthetic_template
+Please check this. The furniture screws are loose and parts move.,Furniture,Furniture_19,synthetic_template
+The mattress cover is ripped.,Furniture,Furniture_20,synthetic_template
+Could you fix this: the mattress cover is ripped.,Furniture,Furniture_20,synthetic_template
+The mattress cover is ripped. Please resolve it.,Furniture,Furniture_20,synthetic_template
+Kindly help us. The mattress cover is ripped.,Furniture,Furniture_20,synthetic_template
+The main hostel gate was left unlocked at night.,Security,Security_01,synthetic_template
+Could you fix this: the main hostel gate was left unlocked at night.,Security,Security_01,synthetic_template
+The main hostel gate was left unlocked at night. It is affecting hostel residents.,Security,Security_01,synthetic_template
+Please check this. The main hostel gate was left unlocked at night.,Security,Security_01,synthetic_template
+Someone entered our floor without permission.,Security,Security_02,synthetic_template
+Could you fix this: someone entered our floor without permission.,Security,Security_02,synthetic_template
+Someone entered our floor without permission. Please resolve it.,Security,Security_02,synthetic_template
+I need assistance with this issue. Someone entered our floor without permission.,Security,Security_02,synthetic_template
+My room lock does not secure the door.,Security,Security_03,synthetic_template
+Hostel complaint: my room lock does not secure the door.,Security,Security_03,synthetic_template
+My room lock does not secure the door. This needs attention.,Security,Security_03,synthetic_template
+Please check this. My room lock does not secure the door.,Security,Security_03,synthetic_template
+The corridor CCTV camera appears to be offline.,Security,Security_04,synthetic_template
+Urgent issue: the corridor CCTV camera appears to be offline.,Security,Security_04,synthetic_template
+The corridor CCTV camera appears to be offline. This needs attention.,Security,Security_04,synthetic_template
+I need assistance with this issue. The corridor CCTV camera appears to be offline.,Security,Security_04,synthetic_template
+A stranger was seen wandering around the hostel.,Security,Security_05,synthetic_template
+Hostel complaint: a stranger was seen wandering around the hostel.,Security,Security_05,synthetic_template
+A stranger was seen wandering around the hostel. This needs attention.,Security,Security_05,synthetic_template
+Kindly help us. A stranger was seen wandering around the hostel.,Security,Security_05,synthetic_template
+The security guard was not present at the entrance.,Security,Security_06,synthetic_template
+Please help: the security guard was not present at the entrance.,Security,Security_06,synthetic_template
+The security guard was not present at the entrance. Please assign the right maintenance team.,Security,Security_06,synthetic_template
+Kindly help us. The security guard was not present at the entrance.,Security,Security_06,synthetic_template
+My bicycle was missing from the designated parking area.,Security,Security_07,synthetic_template
+I want to report that my bicycle was missing from the designated parking area.,Security,Security_07,synthetic_template
+My bicycle was missing from the designated parking area. This needs attention.,Security,Security_07,synthetic_template
+Please check this. My bicycle was missing from the designated parking area.,Security,Security_07,synthetic_template
+The visitor entry was not checked at the gate.,Security,Security_08,synthetic_template
+Could you fix this: the visitor entry was not checked at the gate.,Security,Security_08,synthetic_template
+The visitor entry was not checked at the gate. It is affecting hostel residents.,Security,Security_08,synthetic_template
+Please check this. The visitor entry was not checked at the gate.,Security,Security_08,synthetic_template
+The emergency exit door does not latch.,Security,Security_09,synthetic_template
+Please help: the emergency exit door does not latch.,Security,Security_09,synthetic_template
+The emergency exit door does not latch. Please resolve it.,Security,Security_09,synthetic_template
+Please check this. The emergency exit door does not latch.,Security,Security_09,synthetic_template
+There was an unknown person trying room handles.,Security,Security_10,synthetic_template
+Could you fix this: there was an unknown person trying room handles.,Security,Security_10,synthetic_template
+There was an unknown person trying room handles. It is affecting hostel residents.,Security,Security_10,synthetic_template
+Please check this. There was an unknown person trying room handles.,Security,Security_10,synthetic_template
+The hostel gate is not closing properly.,Security,Security_11,synthetic_template
+Urgent issue: the hostel gate is not closing properly.,Security,Security_11,synthetic_template
+The hostel gate is not closing properly. Please resolve it.,Security,Security_11,synthetic_template
+I need assistance with this issue. The hostel gate is not closing properly.,Security,Security_11,synthetic_template
+A package went missing from the reception desk.,Security,Security_12,synthetic_template
+Hostel complaint: a package went missing from the reception desk.,Security,Security_12,synthetic_template
+A package went missing from the reception desk. Please assign the right maintenance team.,Security,Security_12,synthetic_template
+Kindly help us. A package went missing from the reception desk.,Security,Security_12,synthetic_template
+The corridor near our rooms is not monitored.,Security,Security_13,synthetic_template
+Please help: the corridor near our rooms is not monitored.,Security,Security_13,synthetic_template
+The corridor near our rooms is not monitored. Please resolve it.,Security,Security_13,synthetic_template
+Please check this. The corridor near our rooms is not monitored.,Security,Security_13,synthetic_template
+The access card reader is not working at the entrance.,Security,Security_14,synthetic_template
+I want to report that the access card reader is not working at the entrance.,Security,Security_14,synthetic_template
+The access card reader is not working at the entrance. It is affecting hostel residents.,Security,Security_14,synthetic_template
+Kindly help us. The access card reader is not working at the entrance.,Security,Security_14,synthetic_template
+The security light outside the hostel is broken.,Security,Security_15,synthetic_template
+I want to report that the security light outside the hostel is broken.,Security,Security_15,synthetic_template
+The security light outside the hostel is broken. It is affecting hostel residents.,Security,Security_15,synthetic_template
+I need assistance with this issue. The security light outside the hostel is broken.,Security,Security_15,synthetic_template
+An unauthorized visitor entered the residential block.,Security,Security_16,synthetic_template
+Hostel complaint: an unauthorized visitor entered the residential block.,Security,Security_16,synthetic_template
+An unauthorized visitor entered the residential block. This needs attention.,Security,Security_16,synthetic_template
+Please check this. An unauthorized visitor entered the residential block.,Security,Security_16,synthetic_template
+The guard did not record visitors during the evening.,Security,Security_17,synthetic_template
+Could you fix this: the guard did not record visitors during the evening.,Security,Security_17,synthetic_template
+The guard did not record visitors during the evening. Please resolve it.,Security,Security_17,synthetic_template
+Please check this. The guard did not record visitors during the evening.,Security,Security_17,synthetic_template
+The boundary gate lock looks damaged.,Security,Security_18,synthetic_template
+I want to report that the boundary gate lock looks damaged.,Security,Security_18,synthetic_template
+The boundary gate lock looks damaged. This needs attention.,Security,Security_18,synthetic_template
+Please check this. The boundary gate lock looks damaged.,Security,Security_18,synthetic_template
+The room door lock has been tampered with.,Security,Security_19,synthetic_template
+Please help: the room door lock has been tampered with.,Security,Security_19,synthetic_template
+The room door lock has been tampered with. Please assign the right maintenance team.,Security,Security_19,synthetic_template
+Kindly help us. The room door lock has been tampered with.,Security,Security_19,synthetic_template
+I am concerned about repeated unauthorized entry.,Security,Security_20,synthetic_template
+Please help: i am concerned about repeated unauthorized entry.,Security,Security_20,synthetic_template
+I am concerned about repeated unauthorized entry. This needs attention.,Security,Security_20,synthetic_template
+I need assistance with this issue. I am concerned about repeated unauthorized entry.,Security,Security_20,synthetic_template
+I need medical assistance because I have a high fever.,Medical,Medical_01,synthetic_template
+Could you fix this: i need medical assistance because I have a high fever.,Medical,Medical_01,synthetic_template
+I need medical assistance because I have a high fever. Please assign the right maintenance team.,Medical,Medical_01,synthetic_template
+Kindly help us. I need medical assistance because I have a high fever.,Medical,Medical_01,synthetic_template
+I injured my ankle and need help reaching the clinic.,Medical,Medical_02,synthetic_template
+Hostel complaint: i injured my ankle and need help reaching the clinic.,Medical,Medical_02,synthetic_template
+I injured my ankle and need help reaching the clinic. This needs attention.,Medical,Medical_02,synthetic_template
+Please check this. I injured my ankle and need help reaching the clinic.,Medical,Medical_02,synthetic_template
+The first aid kit in the hostel office is empty.,Medical,Medical_03,synthetic_template
+Could you fix this: the first aid kit in the hostel office is empty.,Medical,Medical_03,synthetic_template
+The first aid kit in the hostel office is empty. It is affecting hostel residents.,Medical,Medical_03,synthetic_template
+Please check this. The first aid kit in the hostel office is empty.,Medical,Medical_03,synthetic_template
+I am feeling dizzy and need medical support.,Medical,Medical_04,synthetic_template
+Urgent issue: i am feeling dizzy and need medical support.,Medical,Medical_04,synthetic_template
+I am feeling dizzy and need medical support. Please resolve it.,Medical,Medical_04,synthetic_template
+Kindly help us. I am feeling dizzy and need medical support.,Medical,Medical_04,synthetic_template
+A student in our room is having difficulty breathing.,Medical,Medical_05,synthetic_template
+Could you fix this: a student in our room is having difficulty breathing.,Medical,Medical_05,synthetic_template
+A student in our room is having difficulty breathing. Please resolve it.,Medical,Medical_05,synthetic_template
+I need assistance with this issue. A student in our room is having difficulty breathing.,Medical,Medical_05,synthetic_template
+The campus clinic contact number is not available.,Medical,Medical_06,synthetic_template
+Please help: the campus clinic contact number is not available.,Medical,Medical_06,synthetic_template
+The campus clinic contact number is not available. Please assign the right maintenance team.,Medical,Medical_06,synthetic_template
+Kindly help us. The campus clinic contact number is not available.,Medical,Medical_06,synthetic_template
+I cut my hand and need basic first aid.,Medical,Medical_07,synthetic_template
+Please help: i cut my hand and need basic first aid.,Medical,Medical_07,synthetic_template
+I cut my hand and need basic first aid. This needs attention.,Medical,Medical_07,synthetic_template
+Kindly help us. I cut my hand and need basic first aid.,Medical,Medical_07,synthetic_template
+I have severe stomach pain and need medical advice.,Medical,Medical_08,synthetic_template
+I want to report that i have severe stomach pain and need medical advice.,Medical,Medical_08,synthetic_template
+I have severe stomach pain and need medical advice. Please resolve it.,Medical,Medical_08,synthetic_template
+I need assistance with this issue. I have severe stomach pain and need medical advice.,Medical,Medical_08,synthetic_template
+The wheelchair access to the medical room is blocked.,Medical,Medical_09,synthetic_template
+Hostel complaint: the wheelchair access to the medical room is blocked.,Medical,Medical_09,synthetic_template
+The wheelchair access to the medical room is blocked. Please assign the right maintenance team.,Medical,Medical_09,synthetic_template
+Please check this. The wheelchair access to the medical room is blocked.,Medical,Medical_09,synthetic_template
+The emergency medical contact is not answering.,Medical,Medical_10,synthetic_template
+Could you fix this: the emergency medical contact is not answering.,Medical,Medical_10,synthetic_template
+The emergency medical contact is not answering. Please assign the right maintenance team.,Medical,Medical_10,synthetic_template
+Please check this. The emergency medical contact is not answering.,Medical,Medical_10,synthetic_template
+I need help arranging transport to a hospital.,Medical,Medical_11,synthetic_template
+Could you fix this: i need help arranging transport to a hospital.,Medical,Medical_11,synthetic_template
+I need help arranging transport to a hospital. It is affecting hostel residents.,Medical,Medical_11,synthetic_template
+I need assistance with this issue. I need help arranging transport to a hospital.,Medical,Medical_11,synthetic_template
+The medicine cabinet in the hostel office is locked.,Medical,Medical_12,synthetic_template
+Please help: the medicine cabinet in the hostel office is locked.,Medical,Medical_12,synthetic_template
+The medicine cabinet in the hostel office is locked. Please assign the right maintenance team.,Medical,Medical_12,synthetic_template
+I need assistance with this issue. The medicine cabinet in the hostel office is locked.,Medical,Medical_12,synthetic_template
+A student fainted in the common area.,Medical,Medical_13,synthetic_template
+Please help: a student fainted in the common area.,Medical,Medical_13,synthetic_template
+A student fainted in the common area. Please assign the right maintenance team.,Medical,Medical_13,synthetic_template
+Kindly help us. A student fainted in the common area.,Medical,Medical_13,synthetic_template
+I have an allergic reaction and need urgent assistance.,Medical,Medical_14,synthetic_template
+Please help: i have an allergic reaction and need urgent assistance.,Medical,Medical_14,synthetic_template
+I have an allergic reaction and need urgent assistance. Please assign the right maintenance team.,Medical,Medical_14,synthetic_template
+Please check this. I have an allergic reaction and need urgent assistance.,Medical,Medical_14,synthetic_template
+The medical room is closed when help is needed.,Medical,Medical_15,synthetic_template
+Urgent issue: the medical room is closed when help is needed.,Medical,Medical_15,synthetic_template
+The medical room is closed when help is needed. This needs attention.,Medical,Medical_15,synthetic_template
+Please check this. The medical room is closed when help is needed.,Medical,Medical_15,synthetic_template
+I have a persistent headache and need to see a doctor.,Medical,Medical_16,synthetic_template
+Could you fix this: i have a persistent headache and need to see a doctor.,Medical,Medical_16,synthetic_template
+I have a persistent headache and need to see a doctor. Please resolve it.,Medical,Medical_16,synthetic_template
+I need assistance with this issue. I have a persistent headache and need to see a doctor.,Medical,Medical_16,synthetic_template
+The first aid supplies are expired.,Medical,Medical_17,synthetic_template
+Please help: the first aid supplies are expired.,Medical,Medical_17,synthetic_template
+The first aid supplies are expired. It is affecting hostel residents.,Medical,Medical_17,synthetic_template
+Kindly help us. The first aid supplies are expired.,Medical,Medical_17,synthetic_template
+A resident is injured and needs immediate assistance.,Medical,Medical_18,synthetic_template
+Could you fix this: a resident is injured and needs immediate assistance.,Medical,Medical_18,synthetic_template
+A resident is injured and needs immediate assistance. This needs attention.,Medical,Medical_18,synthetic_template
+I need assistance with this issue. A resident is injured and needs immediate assistance.,Medical,Medical_18,synthetic_template
+The clinic schedule is not posted clearly.,Medical,Medical_19,synthetic_template
+Urgent issue: the clinic schedule is not posted clearly.,Medical,Medical_19,synthetic_template
+The clinic schedule is not posted clearly. It is affecting hostel residents.,Medical,Medical_19,synthetic_template
+Kindly help us. The clinic schedule is not posted clearly.,Medical,Medical_19,synthetic_template
+I need information about the nearest campus health centre.,Medical,Medical_20,synthetic_template
+Please help: i need information about the nearest campus health centre.,Medical,Medical_20,synthetic_template
+I need information about the nearest campus health centre. Please assign the right maintenance team.,Medical,Medical_20,synthetic_template
+Please check this. I need information about the nearest campus health centre.,Medical,Medical_20,synthetic_template

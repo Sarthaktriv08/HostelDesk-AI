@@ -52,7 +52,17 @@ Base.metadata.create_all(engine)
 pwd=CryptContext(schemes=["argon2"], deprecated="auto")
 oauth=OAuth2PasswordBearer(tokenUrl="/api/auth/token")
 app=FastAPI(title=settings.app_name if hasattr(settings,"app_name") else "Hostel Desk API", version="1.0.0")
-app.add_middleware(CORSMiddleware, allow_origins=[settings.frontend_origin,"http://127.0.0.1:5500","http://localhost:5173"], allow_credentials=True, allow_methods=["*"], allow_headers=["*"])
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=[
+        "https://hosteldesk-ai-frontend.onrender.com",
+        "http://localhost:3000",
+        "http://127.0.0.1:5500",
+    ],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 def get_db():
     db=SessionLocal()
     try: yield db

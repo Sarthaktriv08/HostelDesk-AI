@@ -482,7 +482,7 @@ async function submitFlow(v) {
 }
 
     const response = await fetch(
-      "http://127.0.0.1:8000/api/complaints",
+      "https://hosteldesk-ai.onrender.com/api/complaints",
       {
         method: "POST",
 headers: {
@@ -567,7 +567,7 @@ if (f.id == "authf") {
     formData.append("password", v.password);
 
     const response = await fetch(
-      "http://127.0.0.1:8000/api/auth/token",
+      "https://hosteldesk-ai.onrender.com/api/auth/token",
       {
         method: "POST",
         headers: {
@@ -585,7 +585,7 @@ if (f.id == "authf") {
     }
 
     const userResponse = await fetch(
-      "http://127.0.0.1:8000/api/users/me",
+      "https://hosteldesk-ai.onrender.com/api/users/me",
       {
         headers: {
           "Authorization": `Bearer ${data.access_token}`

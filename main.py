@@ -113,6 +113,50 @@ def login(form:OAuth2PasswordRequestForm=Depends(),db:Session=Depends(get_db)):
     u=db.scalar(select(User).where(User.email==form.username.lower().strip()))
     if not u or not pwd.verify(form.password,u.password_hash): raise HTTPException(401,"Incorrect email or password")
     return {"access_token":token_for(u),"token_type":"bearer"}
+class WardenSetupIn(BaseModel):
+    name: str
+    email: str
+    password: str
+    hostel: str = ""
+
+@app.post("/api/admin/create-warden", status_code=201)
+def create_warden(
+    data: WardenSetupIn,
+    x_warden_setup_key: str = Header(default=""),
+    db: Session = Depends(get_db),
+):
+    setup_key = os.getenv("WARDEN_SETUP_KEY")
+
+    if not setup_key or not secrets.compare_digest(x_warden_setup_key, setup_key):
+        raise HTTPException(status_code=403, detail="Not authorized")
+
+    if len(data.password) < 12:
+        raise HTTPException(status_code=400, detail="Warden password must be at least 12 characters")
+
+    email = data.email.strip().lower()
+
+    if db.scalar(select(User).where(User.email == email)):
+        raise HTTPException(status_code=409, detail="Email already registered")
+
+    u = User(
+        name=data.name.strip(),
+        email=email,
+        password_hash=pwd.hash(data.password),
+        role="warden",
+        hostel=data.hostel,
+    )
+
+    db.add(u)
+    db.commit()
+    db.refresh(u)
+
+    return {
+        "id": u.id,
+        "name": u.name,
+        "email": u.email,
+        "role": u.role,
+        "hostel": u.hostel,
+    }
 @app.get("/api/users/me")
 def me(u=Depends(current_user)): return {"id":u.id,"name":u.name,"email":u.email,"role":u.role,"hostel":u.hostel}
 @app.post("/api/complaints",status_code=201)

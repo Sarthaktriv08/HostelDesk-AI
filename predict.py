@@ -1,4 +1,4 @@
-```python
+
 """Load the saved model once and classify a hostel complaint."""
 from pathlib import Path
 import joblib
@@ -54,4 +54,3 @@ if __name__ == "__main__":
 
         if complaint:
             print(predict_category(complaint))
-```

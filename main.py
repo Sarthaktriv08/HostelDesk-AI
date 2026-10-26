@@ -158,7 +158,7 @@ class MLClassifyIn(BaseModel):
 def classify_with_trained_model(data: MLClassifyIn, u=Depends(current_user)):
     """Classify complaint category using the locally trained scikit-learn model."""
     try:
-        from ml.predict import predict_category
+        from predict import predict_category
         result = predict_category(data.complaint_text)
         return {"source": "local_trained_model", **result}
     except FileNotFoundError as exc:

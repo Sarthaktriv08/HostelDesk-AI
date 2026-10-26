@@ -169,7 +169,7 @@ def trained_model_info(u=Depends(current_user)):
     """Return training metadata for the local complaint classifier."""
     from pathlib import Path
     import json
-    metadata_path = Path(__file__).resolve().parent.parent / "ml" / "model_metadata.json"
+    metadata_path = Path(__file__).resolve().parent / "model_metadata.json"
     if not metadata_path.exists():
         raise HTTPException(status_code=503, detail="Model metadata not found. Train the model first.")
     metadata = json.loads(metadata_path.read_text(encoding="utf-8"))

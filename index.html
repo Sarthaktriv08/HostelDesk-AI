@@ -554,44 +554,73 @@ if (f.id == "authf") {
     return;
   }
 
-  const reg = S.mode == "register";
-
-  if (reg) {
-    er.textContent = "Please log in with an account already registered through the backend.";
-    return;
-  }
+  const reg = S.mode === "register";
 
   try {
-    const formData = new URLSearchParams();
-    formData.append("username", v.email);
-    formData.append("password", v.password);
+    const API = "https://hosteldesk-ai.onrender.com";
 
-    const response = await fetch(
-      "https://hosteldesk-ai.onrender.com/api/auth/token",
-      {
+    let response;
+    let data;
+
+    if (reg) {
+      // Register a new student account
+      response = await fetch(`${API}/api/auth/register`, {
         method: "POST",
         headers: {
-          "Content-Type": "application/x-www-form-urlencoded"
+          "Content-Type": "application/json"
         },
-        body: formData
+        body: JSON.stringify({
+          name: v.name || v.full_name || "",
+          email: v.email.trim().toLowerCase(),
+          password: v.password
+        })
+      });
+
+      data = await response.json();
+
+      if (!response.ok) {
+        er.textContent =
+          typeof data.detail === "string"
+            ? data.detail
+            : "Registration failed. Please check your details.";
+        return;
       }
-    );
 
-    const data = await response.json();
-
-    if (!response.ok) {
-      er.textContent = data.detail || "Login failed.";
+      // Registration succeeded. Ask the student to log in.
+      S.mode = "login";
+      er.textContent = "Registration successful! Please log in.";
+      render();
       return;
     }
 
-    const userResponse = await fetch(
-      "https://hosteldesk-ai.onrender.com/api/users/me",
-      {
-        headers: {
-          "Authorization": `Bearer ${data.access_token}`
-        }
+    // Log in an existing student or warden
+    const formData = new URLSearchParams();
+    formData.append("username", v.email.trim().toLowerCase());
+    formData.append("password", v.password);
+
+    response = await fetch(`${API}/api/auth/token`, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/x-www-form-urlencoded"
+      },
+      body: formData
+    });
+
+    data = await response.json();
+
+    if (!response.ok) {
+      er.textContent =
+        typeof data.detail === "string"
+          ? data.detail
+          : "Login failed. Please check your email and password.";
+      return;
+    }
+
+    const userResponse = await fetch(`${API}/api/users/me`, {
+      headers: {
+        Authorization: `Bearer ${data.access_token}`
       }
-    );
+    });
 
     const user = await userResponse.json();
 
@@ -607,8 +636,9 @@ if (f.id == "authf") {
     render();
 
   } catch (error) {
-    console.error("Login error:", error);
-    er.textContent = "Cannot connect to the backend. Check that the server is running.";
+    console.error("Authentication error:", error);
+    er.textContent =
+      "Cannot connect to the backend. Please try again.";
   }
 }
  if(f.id=="trackf"){const c=db().complaints.find(x=>x.id==v.id.trim().toUpperCase());$("#terr").textContent=c?"":t("notFound");$("#tres").innerHTML=c?`<div class="g">${detail(c)}</div>`:""}

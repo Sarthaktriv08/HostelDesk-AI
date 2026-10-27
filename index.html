@@ -431,13 +431,49 @@ const ml=()=>{const u=me(),q=($("#q")?.value||"").toLowerCase(),s=$("#sf")?.valu
 /* ---- animation helpers ---- */
 const anim=()=>requestAnimationFrame(()=>{document.querySelectorAll("[data-w]").forEach(b=>b.style.width=b.dataset.w+"%");document.querySelectorAll(".cnt").forEach(e=>{const to=+e.dataset.to;if(reduced.matches){e.textContent=to;return}const s=performance.now(),f=n=>{const q=Math.min((n-s)/900,1);e.textContent=Math.round(to*(1-Math.pow(1-q,3)));if(q<1)requestAnimationFrame(f)};requestAnimationFrame(f)})});
 const confetti=()=>{if(reduced.matches)return;for(let i=0;i<36;i++){const e=document.createElement("i");e.className="cf";e.style.cssText=`left:${50+(Math.random()-.5)*20}%;--dx:${(Math.random()-.5)*700}px;--dy:${-250-Math.random()*300}px;background:hsl(${185+Math.random()*40},95%,72%);animation-delay:${Math.random()*.2}s`;document.body.appendChild(e);setTimeout(()=>e.remove(),1900)}};
+/* ---- sync the logged-in student's complaints from the real backend ---- */
+let studentSyncing=false;
+async function refreshStudentComplaints(){
+  const u=me(), token=ls.get("hd:token");
+  if(!u||u.role!=="student"||!token||studentSyncing)return;
+  studentSyncing=true;
+  try{
+    const response=await fetch("https://hosteldesk-ai.onrender.com/api/complaints",{
+      headers:{Authorization:`Bearer ${token}`}
+    });
+    if(!response.ok)throw new Error("Could not load complaints from the server.");
+    const payload=await response.json();
+    const rows=Array.isArray(payload)?payload:(payload.complaints||payload.items||payload.results||[]);
+    const d=db();
+    const serverRows=rows.map(c=>({
+      ...c,
+      id:String(c.ticket_id??c.id??c.complaint_id??""),
+      title:c.title??"Hostel complaint",
+      description:c.description??"",
+      category:c.category??"Other",
+      priority:String(c.priority??"medium").toLowerCase(),
+      hostel:c.hostel??u.hostel??"",
+      room:String(c.room??""),
+      status:String(c.status??"submitted").toLowerCase().replace(/ /g,"_"),
+      studentId:u.id,
+      student:c.student_name??c.student?.name??u.name??u.email??"Student",
+      createdAt:c.created_at?new Date(c.created_at).getTime():(c.createdAt??Date.now()),
+      timeline:c.timeline??[],
+      ai:c.ai??null
+    })).filter(c=>c.id);
+    d.complaints=d.complaints.filter(c=>c.studentId!=u.id).concat(serverRows);
+    sv(d);
+    if((location.hash.slice(1)||"/").split("?")[0]==="/student")render();
+  }catch(error){console.error("Unable to refresh student complaints:",error)}
+  finally{studentSyncing=false}
+}
 /* ---- routing / render ---- */
 function render(){const p=(location.hash.slice(1)||"/").split("?")[0],u=me();let r=V[p]?p:"/";
  if(r=="/student"&&(!u||u.role!="student"))r=u?"/warden":"/login";if(r=="/warden"&&(!u||u.role!="warden"))r=u?"/student":"/login";
  $("#nv").innerHTML=`<button class="bg" data-go="/insights">📊 Insights</button><button class="bg" data-go="/track">${t("track")}</button>`+(u?`<button class="bg" data-go="/${u.role}">${t("dashboard")}</button><button class="bg" data-act="out">${t("logout")}</button>`:`<button class="b" data-go="/login">${t("login")}</button>`);
  $("#lglab").textContent=t("language");const sel=$("#lang");if(!sel.options.length)sel.innerHTML=Object.entries(LANGS).map(([k,v])=>`<option value="${k}" lang="${k}">${v[1]}</option>`).join("");sel.value=lang;
  $("#skip").textContent=t("skip");window.__sunUI&&__sunUI();
- $("#app").innerHTML=V[r]();if(r=="/warden")wl();if(r=="/insights")mountInsights();if(r=="/student"&&S.tab=="mine")ml();anim();if(r=="/student"&&S.tab=="new"&&S.phase=="form"&&S.dr.d.trim().length>=15)aiPanel();if(r!==render.last){scrollTo(0,0);if(render.last)stars(2);render.last=r}}
+ $("#app").innerHTML=V[r]();if(r=="/warden")wl();if(r=="/insights")mountInsights();if(r=="/student"&&!studentSyncing)refreshStudentComplaints();if(r=="/student"&&S.tab=="mine")ml();anim();if(r=="/student"&&S.tab=="new"&&S.phase=="form"&&S.dr.d.trim().length>=15)aiPanel();if(r!==render.last){scrollTo(0,0);if(render.last)stars(2);render.last=r}}
 addEventListener("hashchange",()=>{render();$("#app").focus({preventScroll:true})});
 /* ---- live AI preview: runs the real staged pipeline ---- */
 let ti,seq=0;const IDLEx=()=>t("aiIdle");
